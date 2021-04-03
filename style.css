@@ -57,7 +57,7 @@ body{
 		}
 	}
 
-@media (max-width: 640px) {
+@media screen (max-width: 640px) {
 	.contenu {
 		display: inline-block; 
 		
