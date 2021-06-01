@@ -1,0 +1,26 @@
+nav ul{
+	padding: 0px;
+	margin: 0px;
+	list-style-type: none;
+	background-color: #726a95;}
+
+	nav li{
+		display: inline-block;
+		width: 190px;
+		height: 50px;
+		border-right: 1px solid #CCCCCC;
+		padding: 0px;
+		margin: 0px;
+		text-align: center;
+		line-height: 50px;
+		font-family: 'Shippori Mincho', serif;
+		font-size: 15px;}
+
+
+nav li a{
+	display: block;
+	text-decoration: none;
+	color: #FFFFFF;}
+
+nav li:hover{
+	background-color: #719fb0;}
